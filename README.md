@@ -23,7 +23,7 @@ Installation
 Clone the Repository
 bash
 Copy code
-git clone https://github.com/your-repo/face-recognition-attendance-system.git
+git clone [https://github.com/your-repo/face-recognition-attendance-system.git](https://github.com/lovetewari/face-recognition-attendance-system/tree/main)
 Set Up a Virtual Environment
 bash
 Copy code
